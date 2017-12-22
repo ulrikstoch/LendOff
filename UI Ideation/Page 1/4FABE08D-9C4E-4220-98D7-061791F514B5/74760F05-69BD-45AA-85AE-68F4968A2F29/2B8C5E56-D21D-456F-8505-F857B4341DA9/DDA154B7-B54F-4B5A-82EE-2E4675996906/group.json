@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "DDA154B7-B54F-4B5A-82EE-2E4675996906",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 269.7620689655172,
+    "x": 3.122593655753917,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE05AFBD-7257-4347-9670-DBB9BCE1A651"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6B6B40D-FE24-4941-B607-C1FDAFFBBDF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC16EAEF-DDC2-41A2-BF82-84F6D5CDD1BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0A6CFD7-3E8D-4450-B9D1-3FA9F16969BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD69770A-D308-4427-8DD1-26F35152FF50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1914711-1AF3-4B1F-BBD1-7C27A56BAF49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B956E756-C5B6-4E88-ADCD-604439832C13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBBB0C05-E86C-4DF8-A6CF-CAAC326FE063"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3E34D73-1099-4DD1-B7A0-00EDB0EECBFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3CCB1F1A-567E-4F7A-BE7D-0DF9754D47DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5E42E7B-0A81-4C34-A6C3-2213F0498E96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28222091-7B05-4188-9014-8D3E8EE62327"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34B537DD-0843-4812-A657-5CB8E26D1B1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A0392F9-AD1E-4D9A-99F4-2D80727AC108"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BF5DEB7-C11C-45B2-B810-BD4946F7FFBE"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

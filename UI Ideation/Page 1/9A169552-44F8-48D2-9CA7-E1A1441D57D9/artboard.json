@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9A169552-44F8-48D2-9CA7-E1A1441D57D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 1598,
+    "y": -412
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "0F8C3841-C9D3-4477-A39E-B8FFE3BC33D0"
+    },
+    {
+      "class": "bitmap",
+      "id": "2E8FA6BF-68D7-4A57-999B-746F597CD386"
+    },
+    {
+      "class": "bitmap",
+      "id": "4AB50DE1-2AD3-40D8-9A94-B66C741C1E01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A55AF69-885B-4DC7-810B-4E5725ED7CC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB5CFC03-82D2-49B5-BC7D-EC654CF02C4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AF27B10-6615-4AE2-A32C-FD07A0B7FA64"
+    },
+    {
+      "class": "text",
+      "id": "1B4D8BCD-71EC-4C23-ABFE-28B71E23A9E6"
+    },
+    {
+      "class": "text",
+      "id": "68749444-CB1F-4DD7-B50A-B18E43120BD8"
+    },
+    {
+      "class": "group",
+      "id": "2271F84C-0301-40BA-86BB-EFE7683F4C72"
+    },
+    {
+      "class": "group",
+      "id": "3EC00143-AE65-4771-999D-2C60598EB36C"
+    },
+    {
+      "class": "group",
+      "id": "2BEAB22E-896F-4D04-A72E-501848FE2B32"
+    },
+    {
+      "class": "group",
+      "id": "6939DD7C-2D6D-4F07-AE4F-E08C79C590C3"
+    },
+    {
+      "class": "group",
+      "id": "16E71241-35A8-41E3-8E64-7C4F7AED3AAC"
+    },
+    {
+      "class": "group",
+      "id": "98867E28-DAE9-4F1E-BA9A-2DD2CD9C94A1"
+    },
+    {
+      "class": "group",
+      "id": "56CD3BB7-27BD-413D-9D88-8356F818C90D"
+    },
+    {
+      "class": "group",
+      "id": "503CB3D1-6E20-4F5F-BAC6-D258E8CD6767"
+    },
+    {
+      "class": "group",
+      "id": "210E2653-77C1-4442-B531-DE20EF5A5818"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B294E0E-DCAD-46A4-8DA9-A7875483B43B"
+    },
+    {
+      "class": "group",
+      "id": "40218D5F-7E9C-4CD3-A950-AF3E2D79DBF7"
+    },
+    {
+      "class": "group",
+      "id": "014F315A-EC24-456C-8723-1BBCAA7C6EE3"
+    }
+  ],
+  "name": "Loan details-filled",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

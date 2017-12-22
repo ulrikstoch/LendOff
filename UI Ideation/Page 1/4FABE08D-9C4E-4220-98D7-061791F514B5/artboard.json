@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "4FABE08D-9C4E-4220-98D7-061791F514B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 2548,
+    "y": 466
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "9CDFFC15-586A-413D-9FEA-04CE2ED95C10"
+    },
+    {
+      "class": "bitmap",
+      "id": "1C61FA4D-CFAF-458D-B453-03B29ABA0C61"
+    },
+    {
+      "class": "bitmap",
+      "id": "2188DAA8-6F2E-403B-B51B-85C4BFB3063F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F889CD04-5863-4BF6-BBE5-58B0AAAF472C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C269597-34AB-4177-9DF4-25267909E07B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3507A14-AEAB-4E18-AD32-0CCDB1CE992C"
+    },
+    {
+      "class": "text",
+      "id": "0F94B8D5-D24B-4783-9B9E-38FF3D520ACA"
+    },
+    {
+      "class": "text",
+      "id": "CCBAD3EA-0F2E-404D-AE97-20EDDA1143E7"
+    },
+    {
+      "class": "text",
+      "id": "D0EF76E3-260D-42C2-A6BE-8ACFA7556B60"
+    },
+    {
+      "class": "group",
+      "id": "55294C53-414B-4014-88D9-33491A28FFD2"
+    },
+    {
+      "class": "group",
+      "id": "7BF2FAC5-08E6-4BC1-B4AA-9DE7DC8628B0"
+    },
+    {
+      "class": "group",
+      "id": "74760F05-69BD-45AA-85AE-68F4968A2F29"
+    },
+    {
+      "class": "group",
+      "id": "A27CF7FC-3C24-47B0-B729-9722D0952726"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EA45D7C-C894-435E-8EF8-E0954EB50EF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E954321D-C6F0-4497-9DF2-BA74D2DC4D05"
+    }
+  ],
+  "name": "Loan details-horz-2",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

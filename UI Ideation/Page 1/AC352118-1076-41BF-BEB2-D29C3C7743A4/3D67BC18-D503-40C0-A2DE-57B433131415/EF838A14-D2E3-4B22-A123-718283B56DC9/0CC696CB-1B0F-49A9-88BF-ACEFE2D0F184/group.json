@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "0CC696CB-1B0F-49A9-88BF-ACEFE2D0F184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 270,
+    "x": 3.41795665634675,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31D5186B-5202-4607-B9C7-320BBA4E9360"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75562A50-BA99-4582-A51A-F5C7F3D7A57F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2503325F-7592-446F-84E5-4B3B8B684580"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "981AEB78-D634-4026-BC5F-429CD0233B8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E335FB69-37B6-497F-9254-022B436BBC66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FB3A1B3-F7BB-4BD0-AB96-C84F8DCD3F8E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98E89F81-DA98-46B1-9287-CDA26D24A378"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4427E129-7890-42CA-8C73-8AD7CAAEC62B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21EB2D5B-DAF3-4DE3-B06E-15748BF6432E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7F0521A-6E52-40A3-B794-AD95710780F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "710729A1-DA00-4B5E-B6FA-B08B108F46BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70CFADDB-E983-4A25-AC85-65FC2C805137"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AB154A1-4D56-4EE2-BD3A-983AA10A8B25"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD271E79-D08D-4C7B-B288-623D980161C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B2B9EB7-49C5-4892-B05E-78EA563B8098"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

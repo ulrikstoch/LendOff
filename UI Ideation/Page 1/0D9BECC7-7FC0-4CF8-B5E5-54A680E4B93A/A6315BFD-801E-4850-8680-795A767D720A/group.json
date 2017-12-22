@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A6315BFD-801E-4850-8680-795A767D720A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 83,
+    "x": 277,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4D3CBA9A-F2DC-47F0-9ADF-3786989AE2DD"
+    },
+    {
+      "class": "text",
+      "id": "61433587-B9A6-471F-9471-F0D8BFC27320"
+    }
+  ],
+  "name": "Resources/Nav Bar (1 Action)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

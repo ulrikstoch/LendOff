@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "4657AE25-1518-4900-AD73-C47696876729",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 269.7620689655172,
+    "x": 3.122593655753917,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "357DBE7C-774F-42CE-8881-9F8309F1E5EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B00DF81A-8CAF-413A-8310-FC3CDD5EF1DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25744B86-6775-42FB-B0C1-899C8B6EAA94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB636946-34E1-40A2-B559-4316442257FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C14491E8-9E47-49EE-9EEF-2A5D97BD0F66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8EC24BD-8C50-4C49-8AD0-75F34FA704DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95263DEF-42D9-437B-BD6E-4B6A1E5D090A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95D98A2B-4ACD-41C1-87BC-1F879E0C9DEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5458294D-8229-405E-98E0-600DD0BB8E2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B19766CB-E562-465F-88E5-F5DE2A85BF8D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD0092EF-802C-45AC-B5EE-4E250FA4EF53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA236E37-7ACE-496F-B151-F674F378E7C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB6658EB-29ED-474D-85CE-B2928AE70F8C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28FB6241-E328-4678-83A5-69A1595A3A88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "039A8020-EB41-4429-9EBD-EB23F342C03F"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

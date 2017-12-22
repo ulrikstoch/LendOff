@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "1A40EA1D-327C-4D22-8F61-1D95F7F32EA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 270,
+    "x": 5.132307692307693,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F1CA2566-92F3-471F-8451-9408BCB93446"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C454D82-DDA1-4D87-8824-D3654D9307FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "314C350B-2314-4AD4-91D2-B71E9B999192"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "347A8ACF-B039-4D3E-8147-5E3E410F1321"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5141BBAC-2473-4B0B-A992-888F77E01E10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3742C3F-EAAF-4363-BDFA-88C414193A6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6511A21F-2997-4521-B869-BFA9BD4FA949"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "478DD233-9BDE-4AF8-B483-E08F626D9620"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FB17C3E-5518-4780-BD92-DFC33716BF97"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2A3B9ED-F791-43F1-9DCC-923D4F2DA3D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0BD12F9-E11A-45E4-824E-255FA022CF04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45888CAE-77FD-40E7-BAF1-760616B7FF17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7774133D-C9EA-4946-BA59-7DFAC65C601A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "006A8F50-F91B-4413-A282-3BF08C859EA1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A69A506-5ACF-451B-8662-1DB4970C88F8"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

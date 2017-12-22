@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9FA05C21-3B53-43A8-B5F1-2C3550295FA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 173,
+    "y": 466
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F23F6A54-8690-41E8-B78B-DAC1683B54DB"
+    },
+    {
+      "class": "bitmap",
+      "id": "6A25097B-ADE2-419F-932D-0DA8B6372D9F"
+    },
+    {
+      "class": "bitmap",
+      "id": "D6E2D218-054D-4BDB-9597-53CBF2EF0318"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE0C75C5-4750-4B31-8207-3F93F8F3D9BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C993768E-FB18-4018-9856-2856A9B6FAF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "361E36FE-F006-4CA7-ADE6-A2D3C0B0A006"
+    },
+    {
+      "class": "text",
+      "id": "B6373839-A76D-4F0F-B5C9-A0D4BD0B181B"
+    },
+    {
+      "class": "text",
+      "id": "472ECB06-4D9D-4B07-8934-8741CEAAB3A6"
+    },
+    {
+      "class": "group",
+      "id": "D2A4458E-7ADF-4076-A52B-04FB77F7C91A"
+    },
+    {
+      "class": "group",
+      "id": "CEE4846B-6CD6-44FD-A2CC-1D5B70B7D68D"
+    },
+    {
+      "class": "group",
+      "id": "BCBAC7BB-79E3-4881-9F19-4BB5865C8682"
+    },
+    {
+      "class": "group",
+      "id": "DFD992FF-25CB-46F8-8B37-0B78D1EBF7DB"
+    },
+    {
+      "class": "group",
+      "id": "EB79908E-C693-48E8-B315-58FC07689B75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D0E3DE4-E629-4A09-B610-F5F6F7F442A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ADFBBDB-1E6E-4D3E-8029-C02A0EB4C80E"
+    }
+  ],
+  "name": "iPhone X Copy 2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

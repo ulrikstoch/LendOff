@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "761ACC8A-7D50-4A2B-B15B-1E7658966F92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 270,
+    "x": 3.41795665634675,
+    "y": 39
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "722DB616-C1F7-4B99-97EC-199A3C964887"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1F98416-2032-4BC4-9663-2A731AD94C18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFAFE8AF-22A5-4E22-8153-9728D5083DCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B58979B-18E9-4156-8506-E878D798AD01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D9FAF9B-C514-4A02-95A5-26D6B7A464A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D225138-F624-4002-A3FB-BC4A070A0F31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63F8EF1A-A463-4371-9DE1-3D962E814B50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD50E84E-F7A5-4F04-A3C1-7B34E4690F49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C6995A9-F725-4E0A-97EB-8BB9280E18AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D50A231D-0DD0-49C8-B813-1D08AC1F1E36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35547EBA-8C82-460A-8574-199F4376D37F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F1F9958-44BB-43DC-AA23-9870D2434D99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "880F2261-AA18-4574-9B18-9C7C964BEC3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3890F9EC-A455-47E0-994B-178D4E7CD260"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "828D0464-F8E3-4267-BC95-77C08C240836"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
